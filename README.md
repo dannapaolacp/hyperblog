@@ -14,5 +14,7 @@ En este curso vemos de todo:
 - Trucos muy locos del profesor
 - Las personalidades multiples de Freddy
 - Creado por Danna seguido por Platzi
+- Incluye ejemplos
+- Disponible para todas las edades
 
 Y como un amable recordatorio. **Este readme.md es un chiste**. Diseñado para el ejemplo.
